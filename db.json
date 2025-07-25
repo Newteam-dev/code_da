@@ -1,0 +1,93 @@
+{
+  "categorys": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Laptop"
+    },
+    {
+      "id": 3,
+      "name": "Máy tính bảng"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807381/react/ex5tv67s6cblskasewbx.jpg",
+      "name": "Giày nữ ABC",
+      "price": "20000",
+      "gallerys": [
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744808159/react/reuy7lsnr8uvkldm7lae.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744808159/react/m8tn5abaqhwzcilqf1ow.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744808201/react/jh4oy5oddorfotjzb6y0.jpg"
+      ],
+      "type": "simple",
+      "parent": 3
+    },
+    {
+      "id": 2,
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807428/react/syqrgxrjrvkfnyba6qqm.jpg",
+      "name": "sdfsdf",
+      "price": "343434",
+      "gallerys": [
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807418/react/c5w24splglvfup2zyml2.jpg"
+      ],
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 3,
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807508/react/zvmrpykiabrumq3d9t85.jpg",
+      "name": "sdfasdfsda",
+      "price": "343434",
+      "gallerys": [
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807493/react/perznla1182l1qo6gtt2.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807491/react/gyv4zjqgkqrkvezezlrq.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807492/react/ggmkykz7c4rpkhhmk7bk.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807493/react/gbqehbeca38sysnzrdjv.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807494/react/iqtnhngxzef6k0ohvzh1.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807493/react/vailfptmozfzasru5jcn.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807492/react/klf5mrcxbabdjf3a0lm5.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807494/react/faifmehlnh3gxq7vwqz9.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807495/react/py5xj87f6jzacv4myppu.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807498/react/rrzdzsxyfjtetyc2irdp.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807495/react/dgkhdtyuw98a84sm4duj.jpg",
+        "http://res.cloudinary.com/dkpfaleot/image/upload/v1744807496/react/cixeu09j0ggaktzlircp.jpg"
+      ],
+      "type": "simple",
+      "parent": 0
+    }
+  ],
+  "variants": [],
+  "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "Items": [
+        {
+          "productId": 3,
+          "quantity": 7
+        },
+        {
+          "productId": 1,
+          "quantity": 3
+        },
+        {
+          "productId": 2,
+          "quantity": 4
+        }
+      ]
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "email": "buikimtu2005@gmail.com",
+      "password": "$2a$10$uUuVaLoeEgKahTryXefyDue.qiC1SnvjjxS11E73IjErfGAUH2HcS",
+      "id": 1
+    }
+  ]
+}
